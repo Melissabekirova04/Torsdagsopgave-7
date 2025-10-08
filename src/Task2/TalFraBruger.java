@@ -28,3 +28,4 @@ public class TalFraBruger {
         scanner.close();
     }
 }
+

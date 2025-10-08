@@ -1,3 +1,5 @@
+package task1;
+
 public class ArrayFejl {
 
     public static void printTreForsteElementer(String[] array) {
@@ -26,3 +28,4 @@ public class ArrayFejl {
         System.out.println("Programmet fortsætter uden at stoppe 😊");
     }
 }
+
